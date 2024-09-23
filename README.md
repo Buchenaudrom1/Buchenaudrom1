@@ -5,4 +5,5 @@
 
 à propos de moi :
 actuellement: [BTS SIO]
+
 avant [BAC technologique STMG 2023/2024]
