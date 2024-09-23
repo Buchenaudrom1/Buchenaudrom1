@@ -4,6 +4,7 @@
 - 🤔 Je cherche des conseil pour améliorer mes connaissances en informatique
 
 à propos de moi :
+
 actuellement: [BTS SIO]
 
 avant [BAC technologique STMG 2023/2024]
