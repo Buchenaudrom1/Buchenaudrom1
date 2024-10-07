@@ -3,6 +3,12 @@
 - 💻 Je suis en train d'apprendre l'informatique en générale
 - 🤔 Je cherche des conseil pour améliorer mes connaissances en informatique
 
+Languages:
+- 🔍 HTML
+- ⚙ CSS 
+- 📋 JavaScript
+
+
 🏫 scolarité:
 - actuellement: [BTS SIO] CaenSup 
 - BAC technologique: STMG 2023/2024 Lycée Alexis de Tocqueville à Cherbourg
